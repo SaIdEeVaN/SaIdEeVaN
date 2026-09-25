@@ -88,6 +88,14 @@ I'm a B.E. Computer Science and Engineering (Cyber Security) student at **Rajala
 
 ![GitHub streak](https://streak-stats.demolab.com/?user=SaIdEeVaN&theme=dark)
 
+## 👾 Contribution Graph
+<!-- Regenerated daily by .github/workflows/pacman.yml onto the output branch -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SaIdEeVaN/SaIdEeVaN/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SaIdEeVaN/SaIdEeVaN/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man eating Sai Deevan's GitHub contribution graph" src="https://raw.githubusercontent.com/SaIdEeVaN/SaIdEeVaN/output/pacman-contribution-graph.svg">
+</picture>
+
 ---
 ![Profile views](https://komarev.com/ghpvc/?username=SaIdEeVaN&label=Profile%20views&color=0e75b6&style=flat)
 
