@@ -5,6 +5,7 @@ I'm a B.E. Computer Science and Engineering (Cyber Security) student at **Rajala
 ## 💫 About Me
 - 🔭 My portfolio is live at **[saideevan-portfolio.vercel.app](https://saideevan-portfolio.vercel.app)**. It's built with Next.js and deployed on Vercel.
 - 🔗 I'm the Technology Executive at the **[Blockchain Innovation Club, REC](https://bicrec.web.app)**, and I built and maintain the club's website.
+- 🔐 My latest project is **[SecretSentinel](https://github.com/SaIdEeVaN/secretsentinel)**, a secret scanner for application and Web3 repositories, published on PyPI as `secretsentinel-scanner`.
 - 👯 I'm keen to jump into Linux kernel development, DevOps pipelines and cybersecurity projects.
 - 🤝 I'm looking for mentorship and collaboration in DevOps and offensive/defensive security.
 - 🌱 I'm mastering the Linux CLI, exploring Rust for systems programming and sharpening my web development skills.
@@ -18,8 +19,9 @@ I'm a B.E. Computer Science and Engineering (Cyber Security) student at **Rajala
 ## 🚀 Featured Projects
 | Project | What it does | Built with |
 | ------- | ------------ | ---------- |
+| **[SecretSentinel](https://github.com/SaIdEeVaN/secretsentinel)**<br>[On PyPI](https://pypi.org/project/secretsentinel-scanner/) | A local-first secret scanner for application and Web3 projects. It scans current files and Git history with Gitleaks plus 18 Web3 rules for signing keys, mnemonics and RPC keys, and never stores or prints the secret value. It ships as a CLI, a pre-commit hook, a reusable GitHub Action and a dashboard for triaging findings. | Python, FastAPI, React, Vite, SQLite, PostgreSQL, Gitleaks, GitHub Actions |
 | **[VoicePath](https://github.com/SaIdEeVaN/voicepath)**<br>[Live demo](https://voicepath.vercel.app) | Voice-first skill discovery and scheme matching for Scheduled Caste beneficiaries under PM-AJAY. People describe their work out loud in Tamil, Hindi, English or a mix of them, and each match comes with a plain-language explanation. | Python, FastAPI, Next.js, TypeScript, Whisper, Piper |
-| **[Chess Engine](https://github.com/SaIdEeVaN/FOAI-Project)**<br>[Play it](https://foai-chess-engine.web.app) | A browser chess game against an engine written from scratch: minimax with alpha-beta pruning, iterative deepening, MVV-LVA move ordering and a Zobrist-hashed transposition table, running in a Web Worker. | React, Vite, JavaScript, Firebase |
+| **[Chess Engine](https://github.com/SaIdEeVaN/FOAI-Project)**<br>[Play it](https://foai-chess-engine.web.app) · [Report and paper](https://github.com/SaIdEeVaN/FOAI-Repo) | A browser chess game against an engine written from scratch: negamax with alpha-beta pruning, iterative deepening, quiescence search, null-move pruning, MVV-LVA move ordering and a Zobrist-hashed transposition table, running in a Web Worker. It plays at roughly 1600–1700 Elo against a calibrated Stockfish. | React, Vite, JavaScript, Firebase |
 | **[BIC-REC Website](https://github.com/SaIdEeVaN/BIC-REC_Site)**<br>[Live site](https://bicrec.web.app) | The Blockchain Innovation Club's official website, with a neo-brutalist design system, Playwright tests and automatic deploys. | React, Vite, Tailwind CSS, Playwright, GitHub Actions |
 | **[Portfolio](https://github.com/SaIdEeVaN/portfolio)**<br>[Live site](https://saideevan-portfolio.vercel.app) | My personal site, with case-study pages for each project. CI runs lint, the build, type checks and end-to-end tests on every push. | Next.js, TypeScript, Tailwind CSS, Playwright |
 | **[E-commerce Store](https://github.com/SaIdEeVaN/ecommerce-store)**<br>[Live demo](https://ecommerce-store-saideevan.vercel.app) | A full-stack store with a cart, checkout, order history and an admin dashboard for products and orders. | Next.js, TypeScript, Prisma, PostgreSQL, NextAuth |
@@ -54,6 +56,7 @@ I'm a B.E. Computer Science and Engineering (Cyber Security) student at **Rajala
 
 **Databases**<br>
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
@@ -63,6 +66,7 @@ I'm a B.E. Computer Science and Engineering (Cyber Security) student at **Rajala
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
 **Security and Operating Systems**<br>
